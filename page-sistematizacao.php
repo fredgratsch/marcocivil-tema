@@ -117,6 +117,10 @@
                         <p><small>Pautas e comentários ( em fomato “.csv”)</small></p>
                     </div>
                     <div class="col-md-4 divider">
+                        <p class="h4"><a href="https://drive.google.com/open?id=1Arwb8RsKFOT2JSQ6FZN55eY3ZJJUpxhogqnDrolpmaw" class="red font-roboto"><strong>Download do histórico do debate</strong></a></p>
+                        <p><small>Pautas e comentários ( em fomato “.csv”)</small></p>
+                    </div>
+                    <div class="col-md-4 divider">
                         <p class="h4"><a href="/marcocivil/pauta" target="_blank" class="red font-roboto"><strong>Veja todo o histórico do debate online</strong></a></p>
                         <p><small>Confira como foi a interação na plataforma</small></p>
                     </div>
