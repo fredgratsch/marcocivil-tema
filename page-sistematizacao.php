@@ -56,6 +56,10 @@
                             <a href="/marcocivil/wp-content/uploads/sites/2/2015/05/pdf-contribuicoes.zip" class="red">Download do histórico em PDF</a>
                             <p><small>Pautas e comentários ( em fomato “.pdf” divididos por eixos)</small></p>
                         </li>
+                         <li>
+                            <a href="https://drive.google.com/open?id=1Arwb8RsKFOT2JSQ6FZN55eY3ZJJUpxhogqnDrolpmaw" class="red">Download do histórico em PDF</a>
+                            <p><small>Pautas e comentários ( em fomato google drive “.pdf” divididos por eixos)</small></p>
+                        </li>
                         <li><a target="_blank" href="/marcocivil/pauta">Histórico online</a></li>
                         <li><a href="#envie-seu-decreto">Envie sua proposta de sistematização</a></li>
                     </ul>
