@@ -128,6 +128,10 @@
                         <p class="h4"><a href="/marcocivil/debate-em-numeros" target="_blank" class="red font-roboto"><strong>Debate em números</strong></a></p>
                         <p><small>Dados estatísticos de interação com a plataforma</small></p>
                     </div>
+                     <div class="col-md-4">
+                        <p class="h4"><a href="https://drive.google.com/open?id=1Arwb8RsKFOT2JSQ6FZN55eY3ZJJUpxhogqnDrolpmaw" target="_blank" class="red font-roboto"><strong>Scrum</strong></a></p>
+                        <p><small>Historias de usuario</small></p>
+                    </div>
                 </div>
             </div>
         </div>
